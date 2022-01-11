@@ -1,8 +1,8 @@
-# linked-list-music-player
-Practice your Linked List skills with implementation of a demo music player
+# linked-list-playlist
+Practice your Linked List skills with implementation of a playlist
 
 
-In this task, you will build a demo of a music player using your own doubly Linked List implementation and OOP 
+In this task, you will build a demo of a playlist using your own doubly Linked List implementation and OOP 
 
 Step 1: 
 Create the basic song class
