@@ -1,6 +1,15 @@
 # linked-list-music-player
 Practice your Linked List skills with implementation of a demo music player
 
+
+█    ▄█    ▄   █  █▀ ▄███▄   ██▄       █    ▄█    ▄▄▄▄▄      ▄▄▄▄▀     █▀▄▀█ ▄███▄   ██▄   ▄█ ██       █ ▄▄  █    ██  ▀▄    ▄ ▄███▄   █▄▄▄▄ 
+█    ██     █  █▄█   █▀   ▀  █  █      █    ██   █     ▀▄ ▀▀▀ █        █ █ █ █▀   ▀  █  █  ██ █ █      █   █ █    █ █   █  █  █▀   ▀  █  ▄▀ 
+█    ██ ██   █ █▀▄   ██▄▄    █   █     █    ██ ▄  ▀▀▀▀▄       █        █ ▄ █ ██▄▄    █   █ ██ █▄▄█     █▀▀▀  █    █▄▄█   ▀█   ██▄▄    █▀▀▌  
+███▄ ▐█ █ █  █ █  █  █▄   ▄▀ █  █      ███▄ ▐█  ▀▄▄▄▄▀       █         █   █ █▄   ▄▀ █  █  ▐█ █  █     █     ███▄ █  █   █    █▄   ▄▀ █  █  
+    ▀ ▐ █  █ █   █   ▀███▀   ███▀          ▀ ▐              ▀             █  ▀███▀   ███▀   ▐    █      █        ▀   █ ▄▀     ▀███▀     █   
+        █   ██  ▀                                                        ▀                      █        ▀          █                  ▀    
+                                                                                               ▀                   ▀                        
+
 In this task, you will build a demo of a music player using your own doubly Linked List implementation and OOP 
 
 Step 1: 
@@ -47,4 +56,13 @@ Create the playlist class
 
 Step 3:
 Create a Runner class with main method and test your playlist
+
+
+  ▄▀  ████▄ ████▄ ██▄       █       ▄   ▄█▄    █  █▀ 
+▄▀    █   █ █   █ █  █      █        █  █▀ ▀▄  █▄█   
+█ ▀▄  █   █ █   █ █   █     █     █   █ █   ▀  █▀▄   
+█   █ ▀████ ▀████ █  █      ███▄  █   █ █▄  ▄▀ █  █  
+ ███              ███▀          ▀ █▄ ▄█ ▀███▀    █   
+                                   ▀▀▀          ▀    
+                                                     
 
